@@ -9,7 +9,7 @@ Computer Science Student
 - 💞️ I’m looking to collaborate on ML/AI
 
 ### 📫 How to reach me:
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ajayanand-k-27777kk) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=kajayanand@gmail.com) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>](https://www.instagram.com/ajayanand__k?igsh=MW1oam9ndmZ6MngwcQ%3D%3D&utm_source=qr)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/ajayanand-k-27777kk) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=kajayanand@gmail.com) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>](https://www.instagram.com/ajayanand__k?igsh=MW1oam9ndmZ6MngwcQ%3D%3D&utm_source=qr)
 
 
 
